@@ -1,0 +1,40 @@
+body{
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: green;
+}
+
+header {
+    background-color: aqua;
+    font-size: 28px;
+    color: aliceblue;
+}
+
+h2{
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+#main-bio #main-img #contact-info {
+    float: left;
+    margin: 20%;
+}
+
+#main-img{
+    width: 70%;
+    
+}
+
+#contact-info{
+    width: 30%;
+    line-height: 30px;
+}
+
+a{
+    color: red;
+}
